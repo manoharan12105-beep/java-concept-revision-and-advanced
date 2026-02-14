@@ -1,2 +1,15 @@
-# java-concept-revision-and-advanced
-Revisiting core Java concepts, strengthening fundamentals, and learning advanced topics including modern Java features, DSA, JDBC, and Servlets.
+# Java Concept Revision and Advanced Learning
+
+## About
+This repository contains my structured Java learning and revision journey.
+
+## Topics Covered
+- Core Java
+- OOP
+- Collections
+- Generics
+- Streams & Lambda
+- DSA Practice
+- JDBC
+- Servlets
+- Maven Concepts
