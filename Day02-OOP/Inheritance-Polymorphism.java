@@ -19,7 +19,7 @@ class Employee {
 	
 	void display(){
 	    System.out.println("Name : " + name);
-	    System.out.println("salary :" + salary);
+	    System.out.println("salary : " + salary);
 	}
 }
 
@@ -76,6 +76,9 @@ Output :
 Doni is working
 Mani is writing code
 David is managing a team
+Name : Mani
+salary : 74750.0
+
 
 Link : https://onlinegdb.com/tRWBc079N
 */
