@@ -12,6 +12,15 @@ class Employee {
 	void work() {
 		System.out.println(name + " is working");
 	}
+	
+	void increament(){
+	    salary += salary * 0.05;
+	}
+	
+	void display(){
+	    System.out.println("Name : " + name);
+	    System.out.println("salary :" + salary);
+	}
 }
 
 // Inheritance
@@ -24,6 +33,11 @@ class Developer extends Employee {
 	void work() {
 		System.out.println(name + " is writing code");
 	}
+	
+	void increament(){
+	    salary += salary * 0.15;
+	}
+	
 }
 
 // Inheritance
@@ -36,16 +50,23 @@ class Manager extends Employee {
 	void work() {
 		System.out.println(name + " is managing a team");
 	}
+	
+	void increament(){
+	    salary += salary * 0.10;
+	}
+	
 }
 
 public class Main {
 	public static void main(String[] args) {
 		Employee emp = new Employee("Doni", 50000);
-		Developer dev = new Developer("Mani", 65000);
-		Manager manager = new Manager("David", 95000);
+		Employee dev = new Developer("Mani", 65000);
+		Employee manager = new Manager("David", 95000);
 		emp.work();
 		dev.work();
 		manager.work();
+		dev.increament();
+		dev.display();
 	}
 }
 
