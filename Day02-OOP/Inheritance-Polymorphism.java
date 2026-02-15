@@ -13,7 +13,7 @@ class Employee {
 		System.out.println(name + " is working");
 	}
 	
-	void increament(){
+	void increment(){
 	    salary += salary * 0.05;
 	}
 	
@@ -34,7 +34,7 @@ class Developer extends Employee {
 		System.out.println(name + " is writing code");
 	}
 	
-	void increament(){
+	void increment(){
 	    salary += salary * 0.15;
 	}
 	
@@ -51,7 +51,7 @@ class Manager extends Employee {
 		System.out.println(name + " is managing a team");
 	}
 	
-	void increament(){
+	void increment(){
 	    salary += salary * 0.10;
 	}
 	
@@ -65,7 +65,7 @@ public class Main {
 		emp.work();
 		dev.work();
 		manager.work();
-		dev.increament();
+		dev.increment();
 		dev.display();
 	}
 }
