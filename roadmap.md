@@ -7,8 +7,8 @@ To revise core Java concepts, strengthen fundamentals, and learn advanced and ba
 
 ## 🧱 Phase 1 — Core Java & OOP Foundation
 
-Day 01 — Core Java + Arrays + Strings  (✔) 
-Day 02 — Full OOP Concepts  (✔) 
+Day 01 — Core Java + Arrays + Strings  (✔)  
+Day 02 — Full OOP Concepts  (✔)  
 Day 03 — OOP Practice & Object Design  
 Day 04 — Wrapper Classes & Autoboxing  
 Day 05 — equals() & hashCode()  
