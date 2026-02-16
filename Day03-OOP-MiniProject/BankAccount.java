@@ -1,3 +1,12 @@
+/*
+
+🧩 Mini Project — Bank Account Management System
+
+Built a Console-Based Bank Account System using Java OOP concepts.
+Implemented account creation with PIN authentication, deposit, withdraw, and balance check using a menu-driven interface.
+
+*/
+
 import java.util.*;
 class BankAccount {
 	private String accountHolder;
