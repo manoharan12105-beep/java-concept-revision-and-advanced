@@ -9,8 +9,8 @@ To revise core Java concepts, strengthen fundamentals, and learn advanced and ba
 
 Day 01 — Core Java + Arrays + Strings  (✔)  
 Day 02 — Full OOP Concepts  (✔)  
-Day 03 — OOP Practice & Object Design  
-Day 04 — Wrapper Classes & Autoboxing  
+Day 03 — OOP Practice & Object Design (✔)  
+Day 04 — Wrapper Classes & Autoboxing (✔)  
 Day 05 — equals() & hashCode()  
 Day 06 — Collections Basics  
 Day 07 — Collections Practice  
