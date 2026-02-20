@@ -1,77 +1,121 @@
-# 📍 Java Learning Roadmap
-
-## 🎯 Goal
-To revise core Java concepts, strengthen fundamentals, and learn advanced and backend-related Java topics including modern Java features, DSA, JDBC, and Servlets.
+# 🚀 30-Day Java Backend Preparation Roadmap
 
 ---
 
 ## 🧱 Phase 1 — Core Java & OOP Foundation
 
-Day 01 — Core Java + Arrays + Strings  (✔)  
-Day 02 — Full OOP Concepts  (✔)  
-Day 03 — OOP Practice & Object Design (✔)  
-Day 04 — Wrapper Classes & Autoboxing (✔)  
-Day 05 — equals() & hashCode()  
-Day 06 — Collections Basics  
-Day 07 — Collections Practice  
+### Day 01 — Core Java Basics
+- Data types
+- Control flow
+- Loops
+- Methods
+- Arrays & Strings
+
+### Day 02 — Complete OOP Concepts
+- Encapsulation
+- Abstraction
+- Inheritance
+- Polymorphism
+- `this` and `super`
+- Constructors
+
+### Day 03 — OOP Mini Project
+- Bank Account Console Application
+- Real-world class design
+
+### Day 04 — Wrapper Classes & String Internals
+- Wrapper classes
+- Autoboxing & Unboxing
+- String memory model
+- String comparison
+
+### Day 05 — equals() & hashCode()
+- Object equality
+- HashSet behavior
+- equals vs equals + hashCode
+
+### Day 06 — Generics
+- Generic classes
+- Type safety
+- Generic collections
+
+### Day 07 — Collections Basics
+- ArrayList
+- HashSet
+- HashMap
+- Basic iteration techniques
+
+### Day 08 — Collections Practice
+- Frequency counter
+- Duplicate detection
+- Map-based problems
 
 ---
 
-## 📦 Phase 2 — Modern Java & Core APIs
+## 📚 Phase 2 — Data Structures & Problem Solving
 
-Day 08 — Generics  
-Day 09 — Map, Comparable & Comparator  
-Day 10 — Exception Handling  
-Day 11 — File Handling  
-Day 12 — Multithreading Basics  
-Day 13 — Lambda Expressions  
-Day 14 — Stream API Basics  
-Day 15 — Stream Practice  
-Day 16 — Stream Advanced Practice  
+### Day 09 — Recursion (Concept + Practice)
 
----
+### Day 10 — Searching Algorithms
+- Linear Search
+- Binary Search
 
-## 🧠 Phase 3 — Data Structures (Practical Focus)
+### Day 11 — Sorting Algorithms
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
 
-Day 17 — Stack & Queue  
-Day 18 — Searching & Sorting  
-Day 19 — Trees Basics  
-Day 20 — Trees Practice  
+### Day 12 — Stack & Queue
 
----
+### Day 13 — LinkedList
 
-## 🗄️ Phase 4 — Database & JDBC
+### Day 14 — DSA Practice Problems
 
-Day 21 — Database & SQL Basics  
-Day 22 — JDBC Architecture  
-Day 23 — JDBC CRUD Operations  
-Day 24 — PreparedStatement & ResultSet  
-Day 25 — JDBC Mini Project  
+### Day 15 — Mixed DSA Practice
 
 ---
 
-## 🌐 Phase 5 — Web Backend Fundamentals
+## ⚡ Phase 3 — Modern Java & Advanced Concepts
 
-Day 26 — HTTP & Web Basics  
-Day 27 — Servlet Basics  
-Day 28 — Servlet + JDBC Integration  
+### Day 16 — Lambda Expressions & Streams
+
+### Day 17 — Streams Practice
+
+### Day 18 — Exception Handling (Advanced)
+
+### Day 19 — File Handling Basics
+
+### Day 20 — File Handling Practice
+
+### Day 21 — Mini File Handling Project
+
+### Day 22 — JDBC Introduction
+
+---
+
+## 🌐 Phase 4 — Backend Fundamentals
+
+### Day 23 — JDBC CRUD Operations
+
+### Day 24 — JDBC Mini Project
+
+### Day 25 — HTTP Basics
+
+### Day 26 — Servlet Basics
+
+### Day 27 — Servlet + JDBC Integration
+
+### Day 28 — Maven Concepts
+
+### Day 29 — Backend Project Structuring
+
+### Day 30 — Final Backend Mini Project Integration
 
 ---
 
-## 🛠 Phase 6 — Build Tools & Finalization
-
-Day 29 — Maven Concepts  
-Day 30 — Final Revision & Repository Cleanup  
-
----
-
-## 📌 Learning Outcome
-After completing this roadmap, I aim to have a strong foundation in:
-- Core Java & OOP
-- Collections & Modern Java Features
-- DSA (Practical Level)
-- Database Connectivity using JDBC
-- Basic Backend Development using Servlets
-- Build Tools Awareness (Maven)
-
----
+## 🎯 Goal After 30 Days
+- Strong Core Java foundation
+- Solid OOP understanding
+- Good grip on Collections & DSA
+- Practical knowledge of JDBC & Servlets
+- Backend-ready confidence
