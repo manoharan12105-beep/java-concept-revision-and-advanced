@@ -71,7 +71,7 @@
 
 ### Day 14 — DSA Practice Problems
 
-### Day 15 — Mixed DSA Practice
+### Day 15 — Time and Space Complexity
 
 ---
 
