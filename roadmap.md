@@ -54,62 +54,140 @@
 
 ## 📚 Phase 2 — Data Structures & Problem Solving
 
-### Day 09 — Recursion (Concept + Practice)
+### Day 09 — Recursion
+- Recursion concept
+- Recursive thinking
+- Practice problems
 
 ### Day 10 — Searching Algorithms
 - Linear Search
 - Binary Search
+- Time complexity comparison
 
 ### Day 11 — Sorting Algorithms
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
+- Sorting analysis
 
 ### Day 12 — Stack & Queue
+- Stack concept
+- Queue concept
+- Push / Pop operations
+- Enqueue / Dequeue operations
+- Practical use cases
 
 ### Day 13 — LinkedList
+- Node structure
+- Singly Linked List
+- Insertion and deletion
+- Traversal techniques
 
-### Day 14 — DSA Practice Problems
+### Day 14 — DSA Practice
+- Mixed data structure problems
+- Implementation exercises
+- Problem-solving practice
 
-### Day 15 — Time and Space Complexity
+### Day 15 — Time & Space Complexity
+- Big-O notation
+- Time complexity analysis
+- Space complexity basics
+- Algorithm efficiency
 
 ---
 
 ## ⚡ Phase 3 — Modern Java & Advanced Concepts
 
 ### Day 16 — Lambda Expressions & Streams
+- Functional programming basics
+- Lambda syntax
+- Functional interfaces
+- Stream API introduction
 
 ### Day 17 — Streams Practice
+- Filtering data
+- Mapping elements
+- Sorting streams
+- Collecting results
 
 ### Day 18 — Exception Handling (Advanced)
+- try-catch-finally
+- throw and throws
+- Custom exceptions
+- Exception best practices
 
 ### Day 19 — File Handling Basics
+- File class
+- FileReader
+- FileWriter
+- Reading and writing files
 
 ### Day 20 — File Handling Practice
+- File reading programs
+- File writing programs
+- Data processing from files
 
-### Day 21 — Mini File Handling Project
+### Day 21 — File Handling Mini Project
+- File-based data storage
+- Record management using files
+- Console application implementation
 
 ### Day 22 — JDBC Introduction
+- JDBC architecture
+- Database connection
+- DriverManager
+- Statement and ResultSet
 
 ---
 
 ## 🌐 Phase 4 — Backend Fundamentals
 
-### Day 23 — JDBC CRUD Operations
+### Day 23 — JDBC CRUD Operations + Mini Project
+- Create records
+- Read records
+- Update records
+- Delete records
+- Student Management console project
 
-### Day 24 — JDBC Mini Project
+### Day 24 — Hibernate Basics
+- ORM concept
+- Hibernate architecture
+- Entity classes
+- Session and SessionFactory
 
 ### Day 25 — HTTP Basics
+- HTTP protocol
+- Request–response cycle
+- HTTP methods
+- Status codes and headers
 
 ### Day 26 — Servlet Basics
+- Servlet architecture
+- HttpServlet class
+- Handling requests and responses
+- Web server interaction
 
 ### Day 27 — Servlet + JDBC Integration
+- Database connectivity in web apps
+- Handling form data
+- Dynamic database operations
 
 ### Day 28 — Maven Concepts
+- Dependency management
+- Project structure
+- Maven lifecycle
+- Build automation
 
 ### Day 29 — Backend Project Structuring
+- Package organization
+- Layered architecture
+- Controller, Service, DAO structure
 
 ### Day 30 — Final Backend Mini Project Integration
+- Servlets + JDBC integration
+- Maven project setup
+- Backend application development
+- Final project implementation
 
 ---
 
