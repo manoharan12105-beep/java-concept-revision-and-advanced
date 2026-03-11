@@ -4,190 +4,197 @@
 
 ## 🧱 Phase 1 — Core Java & OOP Foundation
 
-### Day 01 — Core Java Basics
+Day 01 — Core Java Basics
 - Data types
 - Control flow
 - Loops
 - Methods
 - Arrays & Strings
 
-### Day 02 — Complete OOP Concepts
+Day 02 — Complete OOP Concepts
 - Encapsulation
 - Abstraction
 - Inheritance
 - Polymorphism
-- `this` and `super`
+- this and super
 - Constructors
 
-### Day 03 — OOP Mini Project
+Day 03 — OOP Mini Project
 - Bank Account Console Application
 - Real-world class design
 
-### Day 04 — Wrapper Classes & String Internals
+Day 04 — Wrapper Classes & String Internals
 - Wrapper classes
 - Autoboxing & Unboxing
 - String memory model
 - String comparison
 
-### Day 05 — equals() & hashCode()
+Day 05 — equals() & hashCode()
 - Object equality
 - HashSet behavior
-- equals vs equals + hashCode
+- equals vs hashCode contract
 
-### Day 06 — Generics
+Day 06 — Generics
 - Generic classes
 - Type safety
 - Generic collections
 
-### Day 07 — Collections Basics
+Day 07 — Collections Basics
 - ArrayList
 - HashSet
 - HashMap
-- Basic iteration techniques
+- Iteration techniques
 
-### Day 08 — Collections Practice
+Day 08 — Collections Practice
 - Frequency counter
 - Duplicate detection
-- Map-based problems
+- Map problems
 
 ---
 
 ## 📚 Phase 2 — Data Structures & Problem Solving
 
-### Day 09 — Recursion
+Day 09 — Recursion
 - Recursion concept
 - Recursive thinking
 - Practice problems
 
-### Day 10 — Searching Algorithms
+Day 10 — Searching Algorithms
 - Linear Search
 - Binary Search
 - Time complexity comparison
 
-### Day 11 — Sorting Algorithms
+Day 11 — Sorting Algorithms
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
-- Sorting analysis
 
-### Day 12 — Stack & Queue
-- Stack concept
-- Queue concept
-- Push / Pop operations
-- Enqueue / Dequeue operations
+Day 12 — Stack & Queue
+- Stack operations
+- Queue operations
+- Push / Pop
+- Enqueue / Dequeue
 - Practical use cases
 
-### Day 13 — LinkedList
+Day 13 — Linked List
 - Node structure
 - Singly Linked List
-- Insertion and deletion
-- Traversal techniques
+- Insertion
+- Deletion
+- Traversal
 
-### Day 14 — DSA Practice
-- Mixed data structure problems
+Day 14 — DSA Practice
+- Mixed problems
 - Implementation exercises
-- Problem-solving practice
 
-### Day 15 — Time & Space Complexity
+Day 15 — Time & Space Complexity
 - Big-O notation
-- Time complexity analysis
-- Space complexity basics
+- Time complexity
+- Space complexity
 - Algorithm efficiency
 
 ---
 
-## ⚡ Phase 3 — Modern Java & Advanced Concepts
+## ⚡ Phase 3 — Modern Java
 
-### Day 16 — Lambda Expressions & Streams
+Day 16 — Lambda Expressions
 - Functional programming basics
 - Lambda syntax
 - Functional interfaces
-- Stream API introduction
 
-### Day 17 — Streams Practice
+Day 17 — Stream API
 - Filtering data
 - Mapping elements
 - Sorting streams
 - Collecting results
 
-### Day 18 — Exception Handling (Advanced)
+Day 18 — Exception Handling
 - try-catch-finally
 - throw and throws
 - Custom exceptions
-- Exception best practices
+- Best practices
 
-### Day 19 — File Handling Basics
+Day 19 — File Handling Basics
 - File class
 - FileReader
 - FileWriter
-- Reading and writing files
+- Reading files
+- Writing files
 
-### Day 20 — File Handling Practice
+Day 20 — File Handling Practice
 - File reading programs
 - File writing programs
-- Data processing from files
+- Data processing
 
-### Day 21 — File Handling Mini Project
-- File-based data storage
-- Record management using files
+Day 21 — File Handling Mini Project
+- File-based record manager
 - Console application implementation
-
-### Day 22 — JDBC Introduction
-- JDBC architecture
-- Database connection
-- DriverManager
-- Statement and ResultSet
 
 ---
 
-## 🌐 Phase 4 — Backend Fundamentals
+## 🗄 Phase 4 — Database Layer
 
-### Day 23 — JDBC CRUD Operations + Mini Project
+Day 22 — JDBC Introduction
+- JDBC architecture
+- Database connection
+- DriverManager
+- Statement
+- ResultSet
+
+Day 23 — JDBC CRUD Operations + Mini Project
 - Create records
 - Read records
 - Update records
 - Delete records
 - Student Management console project
 
-### Day 24 — Hibernate Basics
-- ORM concept
-- Hibernate architecture
-- Entity classes
-- Session and SessionFactory
+---
 
-### Day 25 — HTTP Basics
+## 🌐 Phase 5 — Web Fundamentals
+
+Day 24 — HTTP Basics
 - HTTP protocol
 - Request–response cycle
 - HTTP methods
-- Status codes and headers
+- Status codes
+- Headers
 
-### Day 26 — Servlet Basics
+Day 25 — Web Servers & Servlet Container
+- Web server basics
+- Servlet container
+- Running Java web apps on Apache Tomcat
+
+---
+
+## 🔧 Phase 6 — Java Web Development Bridge
+
+Day 26 — Servlet Basics
 - Servlet architecture
 - HttpServlet class
+- doGet() and doPost()
 - Handling requests and responses
-- Web server interaction
 
-### Day 27 — Servlet + JDBC Integration
+Day 27 — HTML Forms + Servlets
+- Form submission
+- GET vs POST
+- request.getParameter()
+
+Day 28 — Servlet + JDBC
 - Database connectivity in web apps
 - Handling form data
 - Dynamic database operations
 
-### Day 28 — Maven Concepts
-- Dependency management
-- Project structure
-- Maven lifecycle
-- Build automation
+Day 29 — Sessions & Cookies
+- HTTP stateless concept
+- Session management
+- Cookies
+- Login session example
 
-### Day 29 — Backend Project Structuring
-- Package organization
-- Layered architecture
-- Controller, Service, DAO structure
-
-### Day 30 — Final Backend Mini Project Integration
-- Servlets + JDBC integration
-- Maven project setup
-- Backend application development
-- Final project implementation
+Day 30 — Mini Web Application
+- HTML form
+- Servlet processing
+- JDBC database storage
+- Simple web application project
 
 ---
 
@@ -195,5 +202,6 @@
 - Strong Core Java foundation
 - Solid OOP understanding
 - Good grip on Collections & DSA
-- Practical knowledge of JDBC & Servlets
-- Backend-ready confidence
+- Practical knowledge of JDBC
+- Understanding of HTTP & Servlets
+- Ready to start Spring Boot
