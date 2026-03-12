@@ -166,42 +166,11 @@ Day 25 — Web Servers & Servlet Container
 
 ---
 
-## 🔧 Phase 6 — Java Web Development Bridge
-
 Day 26 — Servlet Basics
 - Servlet architecture
 - HttpServlet class
 - doGet() and doPost()
 - Handling requests and responses
 
-Day 27 — HTML Forms + Servlets
-- Form submission
-- GET vs POST
-- request.getParameter()
-
-Day 28 — Servlet + JDBC
-- Database connectivity in web apps
-- Handling form data
-- Dynamic database operations
-
-Day 29 — Sessions & Cookies
-- HTTP stateless concept
-- Session management
-- Cookies
-- Login session example
-
-Day 30 — Mini Web Application
-- HTML form
-- Servlet processing
-- JDBC database storage
-- Simple web application project
-
----
-
-## 🎯 Goal After 30 Days
-- Strong Core Java foundation
-- Solid OOP understanding
-- Good grip on Collections & DSA
-- Practical knowledge of JDBC
 - Understanding of HTTP & Servlets
 - Ready to start Spring Boot
