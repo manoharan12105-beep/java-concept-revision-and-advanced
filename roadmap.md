@@ -1,4 +1,4 @@
-# 🚀 30-Day Java Backend Preparation Roadmap
+# 🚀 Java Backend Preparation Roadmap
 
 ---
 
@@ -163,8 +163,6 @@ Day 25 — Web Servers & Servlet Container
 - Web server basics
 - Servlet container
 - Running Java web apps on Apache Tomcat
-
----
 
 Day 26 — Servlet Basics
 - Servlet architecture
