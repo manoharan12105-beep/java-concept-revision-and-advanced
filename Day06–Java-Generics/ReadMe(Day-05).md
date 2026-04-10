@@ -1,6 +1,3 @@
-```
-```
-
 Problems:
 - No type safety
 - Explicit casting required
